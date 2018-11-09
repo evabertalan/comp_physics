@@ -1,0 +1,6 @@
+.DS_Store
+0/
+1/
+*/*.pdf
+*/*.ipynb_checkpoints
+*.pdf
